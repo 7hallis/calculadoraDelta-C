@@ -3,4 +3,4 @@
 Calculadora de Delta em C 
 Código desenvolvido por Thallis Nunes 
 
-Meu acesse: https://github.com/7hallis
+Acesse meu: https://github.com/7hallis
