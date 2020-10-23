@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507171723 source:c:\users\thales\desktop\projeto1 codblocks\calculadoradelta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
