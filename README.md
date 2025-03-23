@@ -1,4 +1,4 @@
-## Calculadora de Bhaskara em C 
+## Bhaskara Calculator in C 
 Code developed by Thallis Nunes <br><br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
