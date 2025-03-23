@@ -1,5 +1,3 @@
-# calculadora Delta-C
-
 ## Calculadora de Delta em C 
 Código desenvolvido por Thallis Nunes 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
