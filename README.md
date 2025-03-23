@@ -1,9 +1,9 @@
-## Calculadora de Delta em C 
-Código desenvolvido por Thallis Nunes 
+## Calculadora de Bhaskara em C 
+Code developed by Thallis Nunes <br><br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
-Acesse meu: https://github.com/7hallis
+Visit my: https://github.com/7hallis
 
 Bhaskara Calculator in C
 
